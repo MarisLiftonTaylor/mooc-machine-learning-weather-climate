@@ -1,4 +1,4 @@
-## climetlab-my_plugin
+## climetlab-my_plugin_maris
 
 A dataset plugin for climetlab for the dataset my-plugin-main.
 
